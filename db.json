@@ -1,0 +1,77 @@
+{
+  "stands": [
+    { 
+      "id": 1, 
+      "stand_name": "Star Platinum",
+      "description": "Ele é um Stand de curto alcance conhecido por ser um dos Stands mais fortes, dito até ser o melhor em precisão, velocidade e força na época de Diamond is Unbreakable. No final de Stardust Crusaders Star Platinum aprende a parar o tempo por alguns segundos em sua luta contra DIO.",
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/9/9e/SP_P6_Anime.png/revision/latest/scale-to-width-down/270?cb=20230526032321",
+      "stand_user": "Jotaro Kujo",
+      "stand_hability": "Parar o tempo",
+      "part_symbol": "https://wiki.gbl.gg/images/thumb/9/92/JJASBR_Part_3_Emblem.png/45px-JJASBR_Part_3_Emblem.png",
+      "type": [
+          "Curta Distância",
+          "Poder Físico"
+        ],
+      "aura_color": "#7C00C3",
+      "stats":[{
+        "poder_destrutivo": "A",
+        "velocidade": "A",
+        "alcance": "C", 
+        "persistência_poder": "A",
+        "precisão": "A",
+        "potencial_desenvolvimento": "A"
+      }],
+
+    "voice": "...",
+    "joestar": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Joestar_Birthmark.svg"
+    },
+    { 
+      "id": 2, 
+      "stand_name": "Crazy Diamond",
+      "description": "Um Stand poderoso com força similar à de Star Platinum, ele possui a habilidade de curar ou reparar objetos e/ou pessoas.",
+      "image_url": "https://static.wikia.nocookie.net/liga-da-zueira-oficial/images/7/79/CD.png/revision/latest?cb=20220516113451&path-prefix=pt-br",
+      "stand_user": "Josuke Higashikata",
+      "stand_hability": "Curar/Reparar",
+      "part_symbol": "https://wiki.gbl.gg/images/thumb/c/c4/JJASBR_Part_4_Emblem.png/45px-JJASBR_Part_4_Emblem.png",
+      "type": [
+          "Curta Distância",
+          "Poder Físico"
+        ],
+      "aura_color": "#7C00C3",
+      "stats":[{
+        "poder_destrutivo": "A",
+        "velocidade": "A",
+        "alcance": "D", 
+        "persistência_poder": "B",
+        "precisão": "B",
+        "potencial_desenvolvimento": "C"
+      }],
+    "voice": "...",
+    "joestar": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Joestar_Birthmark.svg"
+    },
+    { 
+      "id": 3, 
+      "stand_name": "Golden Experience",
+      "description": "Ele é um Stand de curto-alcance e grande poder com a habilidade de criar vida de material inanimado.",
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/8/81/Gold_Experience_Anime.png/revision/latest/scale-to-width/360?cb=20190116220233&path-prefix=pt-br",
+      "stand_user": "Giorno Giovanna",
+      "stand_hability": "Criar Vida",
+      "part_symbol": "https://wiki.gbl.gg/images/thumb/7/76/JJASBR_Part_5_Emblem.png/45px-JJASBR_Part_5_Emblem.png",
+      "type": [
+          "Curta Distância",
+          "Poder Físico"
+        ],
+      "aura_color": "#7C00C3",
+      "stats":[{
+        "poder_destrutivo": "C",
+        "velocidade": "A",
+        "alcance": "C", 
+        "persistência_poder": "D",
+        "precisão": "C",
+        "potencial_desenvolvimento": "A"
+      }],
+    "voice": "...",
+    "joestar": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Joestar_Birthmark.svg"
+    }
+  ]
+}
