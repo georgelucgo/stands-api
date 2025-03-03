@@ -37,7 +37,7 @@
           "Curta Distância",
           "Poder Físico"
         ],
-      "aura_color": "#7C00C3",
+      "aura_color": "#C300A0",
       "stats":[{
         "poder_destrutivo": "A",
         "velocidade": "A",
@@ -61,7 +61,7 @@
           "Curta Distância",
           "Poder Físico"
         ],
-      "aura_color": "#7C00C3",
+      "aura_color": "#C3C300",
       "stats":[{
         "poder_destrutivo": "C",
         "velocidade": "A",
